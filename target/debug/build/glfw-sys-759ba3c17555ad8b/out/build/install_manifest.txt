@@ -1,0 +1,8 @@
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/lib/libglfw3.a
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/include/GLFW/glfw3native.h
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/include/GLFW/glfw3.h
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/lib/cmake/glfw3/glfw3Config.cmake
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/lib/cmake/glfw3/glfw3Targets.cmake
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/lib/cmake/glfw3/glfw3Targets-debug.cmake
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/lib/pkgconfig/glfw3.pc

@@ -1,0 +1,15 @@
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/build/CMakeFiles/uninstall.dir
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/build/CMakeFiles/edit_cache.dir
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/build/CMakeFiles/rebuild_cache.dir
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/build/CMakeFiles/list_install_components.dir
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/build/CMakeFiles/install.dir
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/build/CMakeFiles/install/local.dir
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/build/CMakeFiles/install/strip.dir
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/build/src/CMakeFiles/update_mappings.dir
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/build/src/CMakeFiles/glfw.dir
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/build/src/CMakeFiles/edit_cache.dir
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/build/src/CMakeFiles/rebuild_cache.dir
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/build/src/CMakeFiles/list_install_components.dir
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/build/src/CMakeFiles/install.dir
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/build/src/CMakeFiles/install/local.dir
+/home/lachsdachs/Desktop/projects/apogee/apogee/target/debug/build/glfw-sys-759ba3c17555ad8b/out/build/src/CMakeFiles/install/strip.dir
